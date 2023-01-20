@@ -1,4 +1,4 @@
-# TF_azurerm_managed_disks
+# Azurerm_managed_disks
 
 Deploy an Azure Managed Disks with a dedicated Terraform module
 
